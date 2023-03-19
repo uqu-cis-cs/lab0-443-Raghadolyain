@@ -1,4 +1,4 @@
-package javaapplication44;
+package edu.uqu.cs;
 
 import java.util.Scanner;
 
